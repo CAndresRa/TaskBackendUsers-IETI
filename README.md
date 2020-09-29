@@ -12,6 +12,12 @@
 * Ingresar a la aplicación dando click en **Sing In**
 * Para ver los usuarios del sistema Click en Users que aparece en el NavBar de la aplicación
 
+
+# Repositorios
+
+* Frontend: https://github.com/CAndresRa/Task-IETI
+* Backend users: https://github.com/CAndresRa/TaskBackendUsers-IETI
+
 # Direcciones del proyecto
 
 * Container Docker in heroku backend users
